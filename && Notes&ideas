@@ -4,7 +4,7 @@ Goals of this early on are to add casino games like blackjack, roulette, other s
 
 Blackjack would return card emojis like red 13 diamond, but with images (text early on)
 
-Play the game by typing '=bj <betAmount>'
+Play the game by typing '=bj <betAmount>', '=balance'
 
 hit,stay, double are possible choices, maybe split later on
 
