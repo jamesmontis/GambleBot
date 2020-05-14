@@ -19,4 +19,4 @@ bot.on('message',(message)=>{
 
 });
 
-bot.login('%BOTTOKENGOESHERE');  // add the secret bot token
+bot.login('%BOTTOKENGOESHERE');  // add the secret bot token between ''
