@@ -19,4 +19,4 @@ bot.on('message',(message)=>{
 
 });
 
-bot.login('MzA4NzgyOTQ5Njc4MTg2NDk2.Xq3cpA.-D4g4p79B1o0NsKncAicu35TjuE');
+bot.login('%BOTTOKENGOESHERE');  // add the secret bot token
