@@ -1,0 +1,20 @@
+// GambleBot is in javascript/Node, it uses a discord.js dependency
+
+Goals of this early on are to add casino games like blackjack, roulette, other stuff.
+
+Blackjack would return card emojis like red 13 diamond, but with images (text early on)
+
+Play the game by typing '=bj <betAmount>'
+
+hit,stay, double are possible choices, maybe split later on
+
+Bot updates users accounts with money, currently it only stores while bot is on, a long term solution to keep 24/7 memory needs to be solved
+
+Users with $0 can beg or work for money, various tasks can be assigned to ridicule the users.
+
+=cheat is an option but can result in being "thrown out" and any profit taken from user.
+or
+they can successfully cheat, and get better at cheating over time.
+
+
+
